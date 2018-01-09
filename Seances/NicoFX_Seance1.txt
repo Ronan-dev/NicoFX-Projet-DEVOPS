@@ -1,0 +1,72 @@
+Séance 1
+
+Animateur : Lucie
+Scribe : Dimitri
+Gestionnaire : Enguerrand
+Techniciens : Thomas, Ronan, Anaëlle
+
+9h48 - Lecture et compréhension du document
+
+Liste d'incrompréhensions
+
+	- Qu'est ce qu'un système serveur
+	- Comment paramétrer un système serveur
+	- Qu'est ce qu'un hébergeur web
+	- Rôle IIS
+	- Serveur windows 2016
+	- Visio
+
+
+
+10h19 - Brainstorming sur ce dont on a besoin
+
+	- Visio
+	- Schéma réseaux
+	- Maquettage
+	- Parametrage Windows Serveur
+	- Connection ?
+	- Manuel technique IIS
+	- Site internet (Html/Css)
+	- Formulaire
+	- Application en Js permettant l'adressage IP
+	- Windows serveur
+	- Adobe XD
+
+
+
+
+10h59 - Répartition des idées
+
+	Tâches
+	- Schéma réseaux
+	- Maquettage
+	- Parametrage Windows Serveur
+	- Manuel technique IIS
+	- Site internet
+	- Application permettant l'adressage IP
+	- Diapo
+
+	Technos
+	- HTML
+	- CSS
+	- JavaScript
+	- Adobe XD
+	- Visio
+
+11h28 - Brainstorming et désicion sur le nom
+
+	Fam Front-End
+
+
+13h38 - Maquettage
+
+15h45 - Répartition des tâches et formation de deux groupes
+	- Equipe de developper
+	- Equipe de front
+
+15h58 - Avancée dans le projet
+	- Un groupe sur le maquettage
+	- Un groupe sur le dev
+	- Définition de la Deadline
+	- 
+
